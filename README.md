@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Aloha API
 
-<!--
-**AlohaAPI/AlohaAPI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building high-concurrency LLM gateways, global edge routing, and multi-agent infrastructure.
 
-Here are some ideas to get you started:
+## 🚀 About Aloha API
+[Aloha API](https://www.alohaapi.com) is a high-performance, unified AI model gateway designed for developers, multi-agent frameworks, and high-concurrency production workloads. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **OpenAI-Compatible:** Drop-in replacement with zero codebase rewriting.
+* **Ultra-Fast TTFT:** Sub-second latency for models like DeepSeek-V4-Flash and Qwen3.6-Flash.
+* **Global Edge Routing:** Health-aware routing and automatic failover across US and Singapore nodes.
+
+## ⚡ Quick Links
+* **Official Website:** [alohaapi.com](https://www.alohaapi.com)
+* **Quickstart Repository:** [aloha-api-quickstart](https://github.com/AlohaAPI/aloha-api-quickstart)
+* **Community & Support:** [Discord Community](https://discord.gg/PrsxbbUJ2)
